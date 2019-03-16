@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8C3967EF-EA5C-CD2A-F191-ADB2A5FEC7D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2DGamekit/Scripts/AI/MissileGolem.cs">
+    <Files>
+      <File FileName="Assets/2DGamekit/Scripts/SceneManagement/TransitionPoint.cs" Line="10" Column="35" />
+      <File FileName="Assets/2DGamekit/Scripts/UI/Quit.cs" Line="15" Column="1" />
+      <File FileName="Assets/2DGamekit/Scripts/Objects/HubDoor.cs" Line="27" Column="1" />
+      <File FileName="Assets/2DGamekit/Scripts/SceneManagement/ScreenFader.cs" Line="60" Column="45" />
+      <File FileName="Assets/2DGamekit/Scripts/UI/DestoryAfter.cs" Line="19" Column="2" />
+      <File FileName="Assets/2DGamekit/Scripts/AI/MissileGolem.cs" Line="360" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.com.unity.postprocessing.Editor PreferredExecutionTarget="Unity.Editor" />
+</Properties>
